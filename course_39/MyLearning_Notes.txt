@@ -1,8 +1,8 @@
 Q: What did you learn?
-A: Lesson
+A: multi cast delegates
 
 Q: What was challenging?
-A: Lesson
+A: a little bit new for me
 
 Q: How did you resolve any problem when it appeared?
-A: Lesson
+A: no error occured
