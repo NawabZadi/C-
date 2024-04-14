@@ -1,8 +1,8 @@
 Q: What did you learn?
-A: Lesson
+A: I have learnt about Reflections it was a complex and new concept for me still trying to figure it out(concept)
 
 Q: What was challenging?
-A: Lesson
+A: Understanding the whole concept
 
 Q: How did you resolve any problem when it appeared?
-A: Lesson
+A: no error occured
