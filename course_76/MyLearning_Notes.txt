@@ -1,8 +1,8 @@
 Q: What did you learn?
-A: Learnt about List collection and its methods in csharp
+A: Learnt about List collection and its methods in csharp getrange add range etc
 
 Q: What was challenging?
-A: undeerstood
+A: new concept tried to learn it
 
 Q: How did you resolve any problem when it appeared?
 A: no error occured
