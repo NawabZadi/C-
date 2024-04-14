@@ -5,4 +5,4 @@ Q: What was challenging?
 A: nothing
 
 Q: How did you resolve any problem when it appeared?
-A: no error occured
+A: no error occured.
