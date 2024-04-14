@@ -1,8 +1,7 @@
 Q: What did you learn?
-A: Lesson
-
+A: Learnt about partial classes that are used to split classes into two or more physical files.
 Q: What was challenging?
-A: Lesson
+A: handling multiple files but i got over it.
 
 Q: How did you resolve any problem when it appeared?
-A: Lesson
+A: partial keyword was missing so recover it.

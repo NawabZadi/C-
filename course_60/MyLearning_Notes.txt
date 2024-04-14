@@ -1,8 +1,8 @@
 Q: What did you learn?
-A: Lesson
+A: Learnt about string and concept of string builder class.
 
 Q: What was challenging?
-A: Lesson
+A: Nothing.
 
 Q: How did you resolve any problem when it appeared?
-A: Lesson
+A: No error occured.
