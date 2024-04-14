@@ -1,8 +1,8 @@
 Q: What did you learn?
-A: Lesson
+A: multiple class inheritance using interfaces otherwise multi class inheritance is not supported by csharp
 
 Q: What was challenging?
-A: Lesson
+A: interfaces were new to me
 
 Q: How did you resolve any problem when it appeared?
-A: Lesson
+A: nothing
