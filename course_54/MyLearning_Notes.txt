@@ -1,8 +1,8 @@
 Q: What did you learn?
-A: Lesson
+A: I have learnt about WINDOWS FORMS. AND HOW TO CREATE WINFORMS
 
 Q: What was challenging?
-A: Lesson
+A: underderstanding and compiling whole concept. I have tried but it didn't execute.
 
 Q: How did you resolve any problem when it appeared?
-A: Lesson
+A: Tried my best had given my 3-4 days upon successful compilation of these forms but all in vein.
