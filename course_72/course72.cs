@@ -93,6 +93,7 @@ public class Program
         {
             dictionaryCustomers.Add(101, customr1);
         }
+        Customer cust;
 
         // When accessing a dictionary value by key, make sure the dictionary 
         // contains the key, otherwise you will get KeyNotFound exception.
