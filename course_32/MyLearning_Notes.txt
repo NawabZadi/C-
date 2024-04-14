@@ -1,8 +1,8 @@
 Q: What did you learn?
-A: Lesson
+A: abstract classes
 
 Q: What was challenging?
-A: Lesson
+A: nothing
 
 Q: How did you resolve any problem when it appeared?
-A: Lesson
+A: nothing
