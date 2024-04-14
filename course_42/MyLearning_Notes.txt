@@ -1,8 +1,8 @@
 Q: What did you learn?
-A: Lesson
+A: Serialization in exception handling
 
 Q: What was challenging?
-A: Lesson
+A: underderstanding the concept
 
 Q: How did you resolve any problem when it appeared?
-A: Lesson
+A: no error occured
