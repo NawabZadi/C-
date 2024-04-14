@@ -1,8 +1,8 @@
 Q: What did you learn?
-A: Lesson
+A: File handling in csharp learnt about streamReader
 
 Q: What was challenging?
-A: Lesson
+A: nothing
 
 Q: How did you resolve any problem when it appeared?
-A: Lesson
+A: no error occured
