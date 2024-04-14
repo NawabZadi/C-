@@ -2,6 +2,7 @@ public class Program
 {
     public static void Main()
     {
+        //outinterfaces
         OutInterface opf = new OutInterface();
         //now there is an abmiguity that which method of interface has been called
         //so to remove this ambiguity we use explicit implementation
