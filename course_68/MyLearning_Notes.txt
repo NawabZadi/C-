@@ -1,5 +1,5 @@
 Q: What did you learn?
-A: Learnt about optional parameter, if we pass no value to it won't be any errors on runtime.
+A: Learnt about method overloading, if we pass no value to it, there will be errors on runtime so we have used method overloading and pass third parameter null.
 
 Q: What was challenging?
 A: simple concept
