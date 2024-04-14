@@ -1,8 +1,8 @@
 Q: What did you learn?
-A: Lesson
+A: structures its methods and field members
 
 Q: What was challenging?
-A: Lesson
+A: new concept
 
 Q: How did you resolve any problem when it appeared?
-A: Lesson
+A: nothing
