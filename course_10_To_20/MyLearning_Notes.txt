@@ -1,8 +1,13 @@
 Q: What did you learn?
-A: Lesson
+A: aliases directive, loops, statements, parameters and its 4 types
+         1. Value PARAMETERS
+         2. Reference PARAMETERS
+         3. Output PARAMETERS
+         4. PARAMETER Arrays
+namespace, calling constructor with instance of that class, Class, static method
 
 Q: What was challenging?
-A: Lesson
+A: parameters, aliases directive, and namespace were new to me
 
 Q: How did you resolve any problem when it appeared?
-A: Lesson
+A: nothing
