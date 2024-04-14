@@ -1,8 +1,8 @@
 Q: What did you learn?
-A: Lesson
+A: Obsolete Generics.
 
 Q: What was challenging?
-A: Lesson
+A: Obsolete itself wasa challenging to understand
 
 Q: How did you resolve any problem when it appeared?
-A: Lesson
+A: no error occured
