@@ -1,8 +1,8 @@
 Q: What did you learn?
-A: Lesson
+A: datatypes, placeholder, concatenation method, escape sequence, operations in c#, nullable types, null coalescing operartor, type conversion and Arrays 
 
 Q: What was challenging?
-A: Lesson
+A: placeholder, nullable type and null Coalescing operartor was new to me
 
 Q: How did you resolve any problem when it appeared?
-A: Lesson
+A: nothing
