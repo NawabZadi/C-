@@ -3,21 +3,19 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-public class optionalParameter
+public class namedParameter
 {
     public static void Main()
     {
-        AddNumbers(10, 90, 89, 88, 90); // Calling the method with more than required parameters
-    }
-    //params should be at last
-    public static void AddNumbers(int firstNumber, int secondNumber, params object[] restOfTheNumbers)
-    {
-        int result = firstNumber + secondNumber;
-        foreach (int i in restOfTheNumbers)
-        {
-              result += i;
-        }       
+        Test(1, 2, 3);
 
-    Console.WriteLine("Total = " + result.ToString());
+        //if we want to give 2 to we will be using named parameter
+        Test(1, c : 2);
+    }
+    public static void Test(int a, int b = 10, int c = 20)
+    {
+        Console.WriteLine("a = " + a);
+        Console.WriteLine("b = " + b);
+        Console.WriteLine("c = " + c);
     }
 }
