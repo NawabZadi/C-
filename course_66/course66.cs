@@ -2,11 +2,12 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using System.Data;
+using System.Data.SqlClient;
+using System.Configuration;
 
 namespace Demo
 {
-    //part 65
-    //indexers
     public class Employee
     {
         public int EmployeeId { get; set; }
@@ -40,21 +41,39 @@ namespace Demo
             { EmployeeId = 8, Name = "Ben", Gender = "Male" });
         }
 
-        // Use "this" keyword to create an indexer
-        // This indexer takes employeeId as parameter
-        // and returns employee name
         public string this[int employeeId]
         {
-            // Just like properties indexers have get and set accessors
+            // Returns the total count of employees whose gender matches
+            // with the gender that is passed in.
             get
             {
                 return listEmployees.
                     FirstOrDefault(x => x.EmployeeId == employeeId).Name;
             }
+            // Changes the gender of all employees whose gender matches
+            // with the gender that is passed in.
             set
             {
                 listEmployees.
                     FirstOrDefault(x => x.EmployeeId == employeeId).Name = value;
+            }
+        }
+
+        public string this[string gender]
+        {
+            get
+            {
+                return listEmployees.Count(x => x.Gender == gender).ToString();
+            }
+            set
+            {
+                foreach (Employee employee in listEmployees)
+                {
+                    if (employee.Gender == gender)
+                    {
+                        employee.Gender = value;
+                    }
+                }
             }
         }
     }

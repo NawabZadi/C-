@@ -15,25 +15,25 @@ namespace Demo
         protected void Page_Load(object sender, EventArgs )
         {
             Company company = new Company();
-            Response.Write("Name of Employee with Id = 2: " + company[2]);
-            Response.Write("<br/>");
-            Response.Write("Name of Employee with Id = 5: " + company[5]);
-            Response.Write("<br/>");
-            Response.Write("Name of Employee with Id = 8: " + company[8]);
-            Response.Write("<br/>");
-            Response.Write("<br/>");
-            
-            Response.Write("Changing names of employees with Id = 2,5,8");
-            Response.Write("<br/>");
-            company[2] = "Employee 2 Name Changed";
-            company[5] = "Employee 5 Name Changed";
-            company[8] = "Employee 8 Name Changed";
 
-            Response.Write("Name of Employee with Id = 2: " + company[2]);
+            Response.Write("Before changing the Gender of all male employees to Female");
             Response.Write("<br/>");
-            Response.Write("Name of Employee with Id = 5: " + company[5]);
+
+            //total count of male employees
+            Response.Write("Total Employees with Gender = Male:" + company["Male"]);
             Response.Write("<br/>");
-            Response.Write("Name of Employee with Id = 8: " + company[8]);
+            Response.Write("Total Employees with Gender = Female:" + company["Female"]);
+            Response.Write("<br/>");
+            Response.Write("<br/>");
+
+            //CONVERTS all "Male" employees to "Female"
+            company["Male"] = "Female";
+
+            Response.Write("After changing the Gender of all male employees to Female");
+            Response.Write("<br/>");
+            Response.Write("Total Employees with Gender = Male:" + company["Male"]);
+            Response.Write("<br/>");
+            Response.Write("Total Employees with Gender = Female:" + company["Female"]);
         }
     }
 }
