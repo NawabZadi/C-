@@ -1,0 +1,8 @@
+Q: What did you learn?
+A: Learnt about optional attribute that if user doesn't provide third value it won't throw any exception
+
+Q: What was challenging?
+A: looping so that we won't get any null reference exception
+
+Q: How did you resolve any problem when it appeared?
+A: no error occured
