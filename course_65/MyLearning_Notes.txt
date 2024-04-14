@@ -1,8 +1,8 @@
 Q: What did you learn?
-A: Lesson
+A: I have learnt about indexers that are used with session state tpo create an instance of session state.
 
 Q: What was challenging?
-A: Lesson
+A: Nothing.
 
 Q: How did you resolve any problem when it appeared?
-A: Lesson
+A: visusal studio is not working so i have worked in visual studio code and it doesn't compile at all. S got just the concept.
