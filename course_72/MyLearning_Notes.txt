@@ -1,8 +1,8 @@
 Q: What did you learn?
-A: Learnt about dictionary in csharp
+A: Learnt about dictionary in csharp.
 
 Q: What was challenging?
-A: difficult to understand having issues understanding this concept
+A: difficult to understand having issues understanding this concept.
 
 Q: How did you resolve any problem when it appeared?
-A: no error occured
+A: no error occured.
