@@ -16,7 +16,7 @@ class Program
         // Create a Func delegate
         Func<Employee, string> selector =
             employee => "Name = " + employee.Name;
-        // Pass the delegate to the Select() LINQ function
+        // Pass the delegate to the Select() LINQ function.
         IEnumerable<string> names = listEmployees.Select(selector);
 
         // The above output can be achieved using

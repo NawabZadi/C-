@@ -1,8 +1,8 @@
 Q: What did you learn?
-A: Learnt about performance of multithreaded program
+A: Learnt about func
 
 Q: What was challenging?
-A: new concept difficult, didn't understand much of it
+A: didn't understand
 
 Q: How did you resolve any problem when it appeared?
 A: no error occured
