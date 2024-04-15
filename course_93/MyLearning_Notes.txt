@@ -1,0 +1,8 @@
+Q: What did you learn?
+A: Learnt about protecting shared resources form concurrent access in multithreading
+
+Q: What was challenging?
+A: new concept difficult
+
+Q: How did you resolve any problem when it appeared?
+A: no error occured
