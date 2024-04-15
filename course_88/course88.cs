@@ -17,6 +17,8 @@ namespace ThreadStartDelegateExample
 
 
             T1.Start();
+            T2.Start();
+            T3.Start();
         }
     }
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\course_86\\CSharpprojects.csproj": {}
+    "C:\\C#\\course_88\\CSharpprojects.csproj": {}
   },
   "projects": {
-    "C:\\C#\\course_86\\CSharpprojects.csproj": {
+    "C:\\C#\\course_88\\CSharpprojects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\course_86\\CSharpprojects.csproj",
+        "projectUniqueName": "C:\\C#\\course_88\\CSharpprojects.csproj",
         "projectName": "CSharpprojects",
-        "projectPath": "C:\\C#\\course_86\\CSharpprojects.csproj",
+        "projectPath": "C:\\C#\\course_88\\CSharpprojects.csproj",
         "packagesPath": "C:\\Users\\lahore laptop\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\course_86\\obj\\",
+        "outputPath": "C:\\C#\\course_88\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
