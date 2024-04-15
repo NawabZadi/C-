@@ -1,0 +1,8 @@
+Q: What did you learn?
+A: Learnt about performance of multithreaded program
+
+Q: What was challenging?
+A: new concept difficult, didn't understand much of it
+
+Q: How did you resolve any problem when it appeared?
+A: no error occured
