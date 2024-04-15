@@ -1,0 +1,8 @@
+Q: What did you learn?
+A: Learnt about passing data to threads in a safer manner
+
+Q: What was challenging?
+A: not understanding the concept clearly
+
+Q: How did you resolve any problem when it appeared?
+A: no error occured
