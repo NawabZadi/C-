@@ -1,0 +1,8 @@
+Q: What did you learn?
+A: Learnt about callback method to get data from threads
+
+Q: What was challenging?
+A: new concept
+
+Q: How did you resolve any problem when it appeared?
+A: no error occured
